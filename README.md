@@ -1,4 +1,4 @@
-# unity3D.playfab-basics
+# unity.playfab-basics
 simple Unity3D authentication manager using PlayFab as back-end.
 
 requirements:
