@@ -1,4 +1,4 @@
-# unity.playfab-basics
+# Unity PlayFab Basics
 simple Unity3D Authentication Manager and Cloud Saving using Microsoft Azure PlayFab.
 
 # Features
