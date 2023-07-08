@@ -7,6 +7,6 @@ simple Unity3D Authentication Manager and Cloud Saving using Microsoft Azure Pla
 * Cloud Saving - Store any data in the form of a key with a value.
 
 # Reguirements
-Unity PlayFab SDK: https://learn.microsoft.com/en-us/gaming/playfab/sdks/unity3d/installing-unity3d-sdk
-* Create a PlayFab Account & Project: https://playfab.com
+* import [Unity PlayFab SDK package](https://learn.microsoft.com/en-us/gaming/playfab/sdks/unity3d/installing-unity3d-sdk)
+* Create a [PlayFab Account & Project] (https://playfab.com) 
 * Add PlayFab project ID into PlayFabServer.cs
